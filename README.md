@@ -133,4 +133,3 @@ springBoot {
 }
 ```
 
-The build has been tested for Gradle 5.4.1 and Java 8
